@@ -32,7 +32,7 @@ public class Solution2 {
 
         /*
         //List index : 작동하지만 모데이터 클 경우 시간경과
-        ArrayList<String> playerList = new ArrayList<>(List.of(players));
+        List<String> playerList = new ArrayList<>(List.of(players));
 
         for(String call : callings){
             int thisIndex = playerList.indexOf(call);
